@@ -1,7 +1,10 @@
-kingsleylwazi326
+### Lwazi Sosibo 🦂🎮|
 
-Hi I'm lwazi 
+Game dev student building games + the soundtracks that score them.
 
-i am an aspiring game developer who is currently a student at the university of KwaZulu Natal
+- 🔭 **Now:** Learning Unity 2D, C# and fl studio 
+- 🧱 **Building:** First platformer + trap beats for indie games
+- 🎯 **2026 Goal:** Ship 1 playable game + 1 original OST
 
-currently in my first year
+**Tech:** Unity | C# | Git | FL Studio
+
